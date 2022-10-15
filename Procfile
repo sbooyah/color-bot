@@ -1,1 +1,1 @@
-worker: python3 color-bot.py
+worker: python color-bot.py
